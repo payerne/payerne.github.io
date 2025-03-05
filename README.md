@@ -1,4 +1,4 @@
-You can find 
+The image below shows the location of the different main cosmological experiments.
 [![View Image](https://raw.githubusercontent.com/payerne/payerne.github.io/main/images/cosmo_experiment_map.png)](https://example.com) the location of the different main cosmological experiments.
 
 # Talks:
