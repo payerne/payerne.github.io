@@ -5,8 +5,8 @@ The image below shows the location of the different main cosmological experiment
 
 ## Some characteristics of photometric surveys
 
-[![View Image](https://raw.githubusercontent.com/payerne/payerne.github.io/main/images/response_curves-5.png)]
-[![View Image](https://raw.githubusercontent.com/payerne/payerne.github.io/main/images/magnitude_depth-7.png)]
+[![View Image](https://raw.githubusercontent.com/payerne/payerne.github.io/main/images/response_curves-5.png)](https://example.com)
+[![View Image](https://raw.githubusercontent.com/payerne/payerne.github.io/main/images/magnitude_depth-7.png)](https://example.com)
 
 # Talks:
 - [Analysis of the weak lensing mass-richness relation of redMaPPer clusters in the LSST DESC DC2 simulations](https://payerne.github.io/talks/DESC_CL_DC2_paper_CWP.pdf) LSST DESC Paper Collaboration Wide Presentation (remote, february 2025)
