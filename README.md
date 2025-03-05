@@ -1,4 +1,6 @@
-The image below shows the location of the different main cosmological experiments.
+# Some images
+## Location of cosmological experiments
+The image below shows the location of the different main cosmological experiments, covering the millimeter, optical, X-ray or radio light domain. We also mention the gravitational wave detectors LIGO and VIRGO.
 [![View Image](https://raw.githubusercontent.com/payerne/payerne.github.io/main/images/cosmo_experiment_map.png)](https://example.com)
 
 # Talks:
