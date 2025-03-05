@@ -1,5 +1,5 @@
 The image below shows the location of the different main cosmological experiments.
-[![View Image](https://raw.githubusercontent.com/payerne/payerne.github.io/main/images/cosmo_experiment_map.png)](https://example.com) the location of the different main cosmological experiments.
+[![View Image](https://raw.githubusercontent.com/payerne/payerne.github.io/main/images/cosmo_experiment_map.png)](https://example.com)
 
 # Talks:
 - [Analysis of the weak lensing mass-richness relation of redMaPPer clusters in the LSST DESC DC2 simulations](https://payerne.github.io/talks/DESC_CL_DC2_paper_CWP.pdf) LSST DESC Paper Collaboration Wide Presentation (remote, february 2025)
