@@ -1,2 +1,1 @@
-# payerne.github.io
-Github about cosmology
+theme: jekyll-theme-minimal
