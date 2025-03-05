@@ -3,6 +3,11 @@
 The image below shows the location of the different main cosmological experiments, covering the millimeter, optical, X-ray or radio light domain. We also mention the gravitational wave detectors LIGO and VIRGO.
 [![View Image](https://raw.githubusercontent.com/payerne/payerne.github.io/main/images/cosmo_experiment_map.png)](https://example.com)
 
+## Some characteristics of photometric surveys
+| Image 1 | Image 2 |
+|---------|---------|
+| ![Image 1](https://raw.githubusercontent.com/payerne/payerne.github.io/main/images/response_curves-5.png) | ![Image 2](https://raw.githubusercontent.com/payerne/payerne.github.io/main/images/magnitude_depth-7.png) |
+
 # Talks:
 - [Analysis of the weak lensing mass-richness relation of redMaPPer clusters in the LSST DESC DC2 simulations](https://payerne.github.io/talks/DESC_CL_DC2_paper_CWP.pdf) LSST DESC Paper Collaboration Wide Presentation (remote, february 2025)
 - [Likelihood considerations for Stage IV cluster abundance cosmology](https://payerne.github.io/talks/desc_seminar2024.pdf), LSST DESC Seminar (remote, december 2024)
