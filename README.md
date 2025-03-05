@@ -5,7 +5,6 @@ The image below shows the location of the different main cosmological experiment
 
 # Talks:
 - [Analysis of the weak lensing mass-richness relation of redMaPPer clusters in the LSST DESC DC2 simulations](https://payerne.github.io/talks/DESC_CL_DC2_paper_CWP.pdf) LSST DESC Paper Collaboration Wide Presentation (remote, february 2025)
-- 
 - [Likelihood considerations for Stage IV cluster abundance cosmology](https://payerne.github.io/talks/desc_seminar2024.pdf), LSST DESC Seminar (remote, december 2024)
 - [High-redshift LBG selection from broadband and wide photometric surveys using a Random Forest algorithm](https://payerne.github.io/talks/rubin_lsst_france2023.pdf), Rubin-LSST France (Paris, november 2024)
 - [Highlights of the Cosmology Session at the Moriond conference](https://payerne.github.io/talks/Cosmo@Moriond-highlights.pdf), Irfu Seminar (Paris, april 2024)
