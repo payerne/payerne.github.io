@@ -1,4 +1,4 @@
 # Some images
-[View More Information](https://payerne.github.io/images/)
+[View More Information](https://payerne.github.io/docs/images/)
 # Talks
-[View More Information](https://payerne.github.io/talks/)
+[View More Information](https://payerne.github.io/docs/talks/)
