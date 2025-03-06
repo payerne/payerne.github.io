@@ -4,4 +4,4 @@ The image below shows the location of the different main cosmological experiment
 
 ## Some characteristics of photometric surveys
 
-[![Small Image](https://raw.githubusercontent.com/payerne/payerne.github.io/main/docs/images/fitlers_magnitude_depth.png)]()
+[![Small Image](https://raw.githubusercontent.com/payerne/payerne.github.io/main/docs/images/filters_magnitude_depth.png)]()
