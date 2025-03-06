@@ -4,5 +4,5 @@ The image below shows the location of the different main cosmological experiment
 
 ## Some characteristics of photometric surveys
 
-[![View Image](https://raw.githubusercontent.com/payerne/payerne.github.io/main/docs/images/response_curves.png)]
-[![View Image](https://raw.githubusercontent.com/payerne/payerne.github.io/main/docs/images/magnitude_depth.png)]
+[![View Image](https://raw.githubusercontent.com/payerne/payerne.github.io/main/docs/images/response_curves-5.png)]
+[![View Image](https://raw.githubusercontent.com/payerne/payerne.github.io/main/docs/images/magnitude_depth-7.png)]
