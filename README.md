@@ -1,2 +1,2 @@
-[View Images](https://payerne.github.io/images/)  
-[View Talks](https://payerne.github.io/talks/)  
+[View Images](https://payerne.github.io/docs/images/)  
+[View Talks](https://payerne.github.io/docs/talks/)  
