@@ -7,3 +7,6 @@ The image below shows the location of the different main cosmological experiment
 
 [![View Image](https://raw.githubusercontent.com/payerne/payerne.github.io/main/images/response_curves-5.png)](https://example.com)
 [![View Image](https://raw.githubusercontent.com/payerne/payerne.github.io/main/images/magnitude_depth-7.png)](https://example.com)
+
+# Talks
+[View More Information](https://github.com/payerne/payerne.github.io/tree/main/talks/)
