@@ -3,15 +3,17 @@ Ground- and space-based cosmology experiments span a range of wavelengths, from 
 
 ### Ground-based experiments
 
-The Vera C. Rubin Observatory (Cerro Pachón, Chile) will conduct the 10-year Legacy of Space and Time (LSST) to be started in 2026. The Very Large Telescope - VLT (Paranal, Chile), and the Cerro Tololo Inter-American Observatory - CTIO (Cerro Tololo, Chile) have provided imaging datasets in the optical and near-infrared (respectively KiDS and DES). The Hawaii islands hosts the Pan-STARRS, the Subaru Observatory, and the Canada France Hawaii Telescope (CFHT). 
+The **Vera C. Rubin Observatory** in Cerro Pachón, Chile, is set to begin the **10-year Legacy Survey of Space and Time (LSST) in 2026**. The **Very Large Telescope (VLT)** in Paranal, Chile, and the **Cerro Tololo Inter-American Observatory (CTIO)** in Cerro Tololo, Chile, have contributed optical and near-infrared imaging datasets, respectively, through **KiDS** and **DES**.  
 
-The Apache Point Observatory (APO) in Sunspot, New Mexico has conducted the spectroscopic Sloan Digital Sky Survey - SDSS.  The Dark Energy Spectroscopic Instrument (DESI) was installed on the Mayall Telescope at Kitt Peak National Observatory (KPN0, Tucson, Arizona, USA). 4MOST is a spectroscopic instrument installed on the Visible and Infrared Survey Telescope for Astronomy (VISTA, Paranal Observatory, northern Chile). MUST (China) will provide wide-field spectroscopy.
+The **Hawaiian Islands** are home to several significant observatories, including **Pan-STARRS**, the **Subaru Observatory**, and the **Canada-France-Hawaii Telescope (CFHT)**.  
 
-In the microwave range, cosmic microwave background (CMB) experiments include BICEP, Keck, and the South Pole Telescope (SPT) (South Pole, Antarctica), as well as the Atacama Cosmology Telescope (ACT) (Atacama, Chile), Simons Observatory (Atacama, Chile), CMB-S4 (Atacama, Chile & South Pole, Antarctica), and NIKA2 (Pico Veleta, Spain).
+In the field of spectroscopy, the **Apache Point Observatory (APO)** in Sunspot, New Mexico, has conducted the **Sloan Digital Sky Survey (SDSS)**. The **Dark Energy Spectroscopic Instrument (DESI)** was installed on the **Mayall Telescope** at **Kitt Peak National Observatory (KPNO)** in Tucson, Arizona, USA. **4MOST**, a spectroscopic instrument, operates on the **Visible and Infrared Survey Telescope for Astronomy (VISTA)** at **Paranal Observatory** in northern Chile. Additionally, **MUST** in **China** will provide wide-field spectroscopy.  
 
-In the radio domain, the Square Kilometer Array (SKA) (Western Australia & South Africa) will be a leading radio observatory.
+For cosmic microwave background (CMB) studies, key experiments include **BICEP**, **Keck**, and the **South Pole Telescope (SPT)** in **Antarctica**, as well as the **Atacama Cosmology Telescope (ACT)**, the **Simons Observatory**, and **CMB-S4** in the **Atacama Desert, Chile, and the South Pole**. Another major CMB instrument, **NIKA2**, operates at **Pico Veleta, Spain**.  
 
-Lastly, LIGO (Louisiana, USA) and VIRGO (Cascina, Italy) detect gravitational waves.
+In the **radio astronomy domain**, the **Square Kilometer Array (SKA)**, located in **Western Australia and South Africa**, is set to become a leading radio observatory.  
+
+Finally, in the study of **gravitational waves**, **LIGO** in **Louisiana, USA**, and **VIRGO** in **Cascina, Italy**, play a crucial role in detection efforts.
 
 
 [![Small Image](https://raw.githubusercontent.com/payerne/payerne.github.io/main/docs/images/cosmo_experiment_map.png)]()
