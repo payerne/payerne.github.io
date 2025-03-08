@@ -3,7 +3,7 @@ Ground- and space-based cosmology experiments span a range of wavelengths, from 
 
 ### Ground-based experiments
 
-The **Vera C. Rubin Observatory** in Cerro Pachón, Chile, is set to begin the **10-year Legacy Survey of Space and Time (LSST) in 2026**. The **Very Large Telescope (VLT)** in Paranal, Chile, and the **Cerro Tololo Inter-American Observatory (CTIO)** in Cerro Tololo, Chile, have contributed optical and near-infrared imaging datasets, respectively, through **KiDS** and **DES**.  
+The **Vera C. Rubin Observatory** in Cerro Pachón, Chile, is set to begin the **10-year Legacy Survey of Space and Time (LSST) in 2026**. The **Very Large Telescope (VLT)** in Paranal, Chile, and the **Cerro Tololo Inter-American Observatory (CTIO)** in Cerro Tololo, Chile, have contributed optical and near-infrared imaging datasets, respectively, through **KiDS** (with the OmegaCam) and **DES** (with the DECam).  
 
 The **Hawaiian Islands** are home to several significant observatories, including **Pan-STARRS**, the **Subaru Observatory**, and the **Canada-France-Hawaii Telescope (CFHT)**.  
 
