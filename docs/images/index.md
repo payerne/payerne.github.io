@@ -17,14 +17,15 @@ Ground- and space-based cosmology experiments span a range of wavelengths, from 
 
 ### Space-based experiments
 
-The following are key space-based observatories across various wavelengths:
+Key space-based observatories across different wavelengths include:  
 
-- The Hubble Space Telescope (HST, launched in 1990) is a joint NASA/ESA observatory that has provided high-resolution imaging and spectroscopy across the ultraviolet, visible, and near-infrared spectrum. Euclid (Launched in 2023) is an ESA mission using both imaging and spectroscopy. The Nancy Grace Roman Space Telescope (planned to be launched in 2030s) is a NASA mission designed for wide-field optical and near-infrared imaging. The James Webb Space Telescope (JWST, launched 2021) is a NASA/ESA/CSA observatory optimized spectro-photometry.
-Chinese Space Station Telescope (CSST, planned to be launched in 2040s) is a Chinese observatory designed for spectro-photometry.
-- Planck (2009–2013) is a European Space Agency (ESA) mission that mapped the cosmic microwave background (CMB) with unprecedented precision, providing critical insights into the early universe.
-- SPHEREx (>2030s) is a NASA space telescope designed to perform an all-sky infrared spectral survey.
-- eROSITA (Launched 2019): A German-Russian X-ray telescope aboard the Spektr-RG mission, performing an all-sky X-ray survey to study galaxy clusters, black holes, and dark energy.
-XMM-Newton (Launched 1999): An ESA X-ray observatory that continues to provide detailed X-ray spectroscopy and imaging, particularly useful for studying black holes, neutron stars, and galaxy clusters.
+- The **Hubble Space Telescope** (HST, launched in 1990), a collaborative NASA/ESA mission, has delivered high-resolution imaging and spectroscopy in the ultraviolet, visible, and near-infrared spectrum. **Euclid** (launched in 2023), an ESA mission, utilizes both imaging and spectroscopy. The **Nancy Grace Roman Space Telescope** (scheduled for launch in the 2030s) is a NASA mission focused on wide-field optical and near-infrared imaging. The **James Webb Space Telescope** (JWST, launched in 2021), a joint effort by NASA, ESA, and CSA, is optimized for spectro-photometry. The **Chinese Space Station Telescope** (CSST, expected in the 2040s) is a Chinese observatory designed for spectro-photometry.  
+
+- **Planck** (2009–2013), an ESA mission, mapped the cosmic microwave background (CMB) with remarkable precision, offering crucial insights into the early universe.  
+
+- **SPHEREx** (planned for the 2030s) is a NASA infrared space telescope designed for an all-sky spectral survey.  
+
+- **eROSITA** (launched in 2019), a German-Russian X-ray telescope, conducts an all-sky X-ray survey, while **XMM-Newton** (launched in 1999), an ESA X-ray observatory, continues to provide detailed X-ray spectroscopy and imaging.
 
 ## Some characteristics of photometric surveys
 
