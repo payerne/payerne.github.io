@@ -3,7 +3,7 @@ Ground- and space-based cosmology experiments span a range of wavelengths, from 
 
 ### Ground-based experiments
 
-The Vera C. Rubin Observatory (Cerro Pachón, Chile), Pan-STARRS, Subaru, CFHT (Maunakea, Hawaii, USA), VLT (Paranal, Chile), and CTAO (Cerro Tololo, Chile) have provided, provide, or will provide imaging in the optical and near-infrared. 4MOST (Cerro Paranal, Chile), APO/SDSS (Sunspot, New Mexico, USA), KPNO/DESI (Arizona, USA), and MUST (China) have provided, provide, or will provide wide-field spectroscopy.
+The Vera C. Rubin Observatory (Cerro Pachón, Chile) will conduct the 10-year Legacy of Space and Time (LSST) to be started in 2026. The Very Large Telescope - VLT (Paranal, Chile), and the Cerro Tololo Inter-American Observatory - CTAO (Cerro Tololo, Chile) have provided imaging datasets in the optical and near-infrared (respectively KiDS and DES). 4MOST (Cerro Paranal, Chile)The Hawaii islands hosts the Pan-STARRS, the Subaru Observatory, and the Canada France Hawaii Telescope (CFHT)., APO/SDSS (Sunspot, New Mexico, USA), KPNO/DESI (Arizona, USA), and MUST (China) have provided, provide, or will provide wide-field spectroscopy.
 
 In the microwave range, cosmic microwave background (CMB) experiments include BICEP, Keck, and the South Pole Telescope (SPT) (South Pole, Antarctica), as well as the Atacama Cosmology Telescope (ACT) (Atacama, Chile), Simons Observatory (Atacama, Chile), CMB-S4 (Atacama, Chile & South Pole, Antarctica), and NIKA2 (Pico Veleta, Spain).
 
