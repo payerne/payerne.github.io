@@ -23,7 +23,7 @@ Key space-based observatories across different wavelengths include:
 
 - **Planck** (2009–2013), an ESA mission, mapped the cosmic microwave background (CMB) with remarkable precision, offering crucial insights into the early universe.  
 
-- ****SPHEREx** (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer, planned for the 2030s) is a NASA infrared space telescope designed for an all-sky spectral survey.  
+- **SPHEREx** (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer, planned for the 2030s) is a NASA infrared space telescope designed for an all-sky spectral survey.  
 
 - **eROSITA** (launched in 2019), a German-Russian X-ray telescope, conducts an all-sky X-ray survey, while **XMM-Newton** (launched in 1999), an ESA X-ray observatory, continues to provide detailed X-ray spectroscopy and imaging.
 
