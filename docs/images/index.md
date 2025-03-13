@@ -27,6 +27,9 @@ Key space-based observatories across different wavelengths include:
 
 - **eROSITA** (launched in 2019), a German-Russian X-ray telescope, conducts an all-sky X-ray survey, while **XMM-Newton** (launched in 1999), an ESA X-ray observatory, continues to provide detailed X-ray spectroscopy and imaging.
 
+[![Small Image](https://raw.githubusercontent.com/payerne/payerne.github.io/main/docs/images/timeline.png)]()
+
+
 ## Some characteristics of photometric surveys
 
 [![Small Image](https://raw.githubusercontent.com/payerne/payerne.github.io/main/docs/images/filters_magnitude_depth.png)]()
